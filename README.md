@@ -1,4 +1,4 @@
 Trabalho feito por 
-Leticia Eugenio
-Flavia Rosa
+Leticia Eugenio;
+Flavia Rosa;
 Leon Trindade
